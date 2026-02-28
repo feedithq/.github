@@ -1,5 +1,3 @@
-# Hello, we are Feedit 👋
+<img src="/assets/logo.svg" height="56">
 
-We offer a robust SaaS platform that simplifies feedback collection and changelog management, promoting seamless communication and transparency between your team and users.
-
-Explore our products on [Feedit](https://feedit.com.br).
+Feedit simplifies how SaaS teams communicate with their users. Collect feedback, publish changelogs, create product documentation, and let an AI assistant resolve user questions — all in one platform.
